@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;com.bonc.design_pattern.composite.MenuComponent&apos; to &apos;Component&apos;&#x0D;&#x0A;- Original project: &apos;design_pattern&apos;&#x0D;&#x0A;- Original element: &apos;com.bonc.design_pattern.composite.MenuComponent&apos;&#x0D;&#x0A;- Renamed element: &apos;com.bonc.design_pattern.composite.Component&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;MenuComponent&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src\/main\/java&lt;com.bonc.design_pattern.composite{MenuComponent.java[MenuComponent" matchStrategy="1" name="Component" qualified="false" references="true" similarDeclarations="false" stamp="1462588552329" textual="false" version="1.0"/>
+</session>

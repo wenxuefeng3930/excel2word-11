@@ -1,0 +1,12 @@
+2016-04-07 17:55:11,561 ERROR [Thread-68] - System.err - Exception in thread "Thread-68"
+2016-04-07 17:55:11,563 ERROR [Thread-68] - System.err - java.util.ConcurrentModificationException
+2016-04-07 17:55:11,564 ERROR [Thread-68] - System.err - at java.util.HashMap$HashIterator.nextEntry(Unknown Source)
+2016-04-07 17:55:11,564 ERROR [Thread-68] - System.err - at java.util.HashMap$KeyIterator.next(Unknown Source)
+2016-04-07 17:55:11,564 ERROR [Thread-68] - System.err - at org.eclipse.jface.text.source.AnnotationModel.getAnnotationIterator(AnnotationModel.java:767)
+2016-04-07 17:55:11,564 ERROR [Thread-68] - System.err - at org.eclipse.jface.text.source.AnnotationModel.getAnnotationIterator(AnnotationModel.java:691)
+2016-04-07 17:55:11,565 ERROR [Thread-68] - System.err - at org.eclipse.jface.text.source.projection.ProjectionSummary.removeSummaries(ProjectionSummary.java:173)
+2016-04-07 17:55:11,565 ERROR [Thread-68] - System.err - at org.eclipse.jface.text.source.projection.ProjectionSummary.internalUpdateSummaries(ProjectionSummary.java:152)
+2016-04-07 17:55:11,565 ERROR [Thread-68] - System.err - at org.eclipse.jface.text.source.projection.ProjectionSummary.access$3(ProjectionSummary.java:147)
+2016-04-07 17:55:11,565 ERROR [Thread-68] - System.err - at org.eclipse.jface.text.source.projection.ProjectionSummary$Summarizer.run(ProjectionSummary.java:72)
+2016-09-25 13:25:55,989 ERROR [Worker-163] - System.err - [Fatal Error] :1:127: 对实体 "wlanacname" 的引用必须以 ';' 分隔符结尾。
+2016-10-05 15:34:00,529 ERROR [Worker-118] - System.err - [Fatal Error] :1:127: 对实体 "wlanacname" 的引用必须以 ';' 分隔符结尾。

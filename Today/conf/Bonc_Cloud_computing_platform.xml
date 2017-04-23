@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="configuration.xsl"?>
+
+<!-- Put site-specific property overrides in this file. -->
+
+<configuration>
+<property>
+  <name>org.joy.crawler.suffix.disallow</name>
+  <value>.jpg,.gif,.jpeg,.png,.bmp,.css,.ico,.ini,.cur,.swf,.dll,.exe,.cab,.vbs,.iso,.bin,.jar,.torrent,.dat,.bat,.xml,.apt,.diff,.rif,.txt,.rar,.zip,.tar,.tgz,.gz,.gtar,.lrc,.def,.idx,.tpt</value>
+  <description>the suffix that should not appear at the end of all crawling url</description>
+</property>
+<property>
+  <name>relationpath</name>
+   <value>/user/bonc/rule</value> 
+  <description></description>
+</property>
+<property>
+  <name>license</name>
+   <value>/license.txt</value> 
+  <description></description>
+</property>
+</configuration>

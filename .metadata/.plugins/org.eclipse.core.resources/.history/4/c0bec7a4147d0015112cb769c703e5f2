@@ -1,0 +1,5 @@
+package com.bonc.storm.test;
+
+public class WordCountSpout {
+
+}

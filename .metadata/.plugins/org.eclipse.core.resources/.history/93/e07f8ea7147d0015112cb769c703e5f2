@@ -1,0 +1,7 @@
+package com.bonc.storm.test;
+
+import backtype.storm.topology.base.BaseBasicBolt;
+
+public class WordCountSpout extends BaseBasicBolt{
+
+}
